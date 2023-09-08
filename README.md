@@ -6,7 +6,7 @@
 
 The application provides conversion from a number to words, what is sometimes required for invoices, contracts etc. It currently supports numbers from one to Nonillion plus two digits after separation point (optionally).
 
-Front-end for this app is provided at [https://github.com/conv-front-end](https://github.com/wie1900/conv-front-end)
+Front-end for this app is provided at [https://github.com/wie1900/conv-front-end](https://github.com/wie1900/conv-front-end)
 
 ## Usage
 The endpoint `/api/conv/words` takes a number (`['number']`) as a string and returns it converted to words in JSON-format (`['words']`).
